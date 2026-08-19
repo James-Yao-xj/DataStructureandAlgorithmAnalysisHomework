@@ -1,0 +1,12 @@
+N = 10, Sum = 7524
+Time: 0 ms
+N = 20, Sum = 280098
+Time: 0 ms
+N = 40, Sum = 9600396
+Time: 3 ms
+N = 80, Sum = 317441592
+Time: 89 ms
+N = 160, Sum = 10321926384
+Time: 2901 ms
+N = 320, Sum = 332922905568
+Time: 114766 ms
